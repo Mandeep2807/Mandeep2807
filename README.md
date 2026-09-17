@@ -123,3 +123,20 @@ DATA SCIENCE     →  finding patterns that matter
 MACHINE LEARNING →  turning patterns into predictions
 ANALYTICS        →  turning numbers into decisions
 DEVELOPMENT      →  turning ideas into usable products
+
+
+---
+
+## 📊 The lab, in numbers
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mandeep2807&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8be28b&text_color=c9d1d9&icon_color=8be28b&rank_icon=github" height="165">
+
+<img src="https://github-readme-streak-stats.demolab.com?user=Mandeep2807&theme=dark&hide_border=true&background=0d1117&ring=8be28b&fire=8be28b&currStreakLabel=8be28b" height="165">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandeep2807&layout=compact&hide_border=true&bg_color=0d1117&title_color=8be28b&text_color=c9d1d9" height="165">
+
+</div>

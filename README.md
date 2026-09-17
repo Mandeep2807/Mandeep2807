@@ -118,12 +118,13 @@ Explorations across sales forecasting, employee attrition, house prices, Olympic
 
 ## 🔬 What I'm exploring
 
-```text
-DATA SCIENCE     →  finding patterns that matter
-MACHINE LEARNING →  turning patterns into predictions
-ANALYTICS        →  turning numbers into decisions
-DEVELOPMENT      →  turning ideas into usable products
+<div align="center">
 
+| DATA SCIENCE | MACHINE LEARNING | ANALYTICS | DEVELOPMENT |
+|:---:|:---:|:---:|:---:|
+| Finding patterns | Building predictions | Making sense of numbers | Turning ideas into products |
+
+</div>
 
 ---
 
@@ -139,4 +140,15 @@ DEVELOPMENT      →  turning ideas into usable products
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandeep2807&layout=compact&hide_border=true&bg_color=0d1117&title_color=8be28b&text_color=c9d1d9" height="165">
 
+</div>
+
+---
+
+<div align="center">
+
+### `LEARN → BUILD → BREAK → FIX → REPEAT`
+
+*Still building. Still learning.*
+
+</div>
 </div>

@@ -205,7 +205,15 @@ a question I can't answer  →  find the data  →  spend longer cleaning it tha
 I'm not pretending to be an expert at any of this. Each project teaches me one thing I got wrong in the last one — a leaky feature, a metric that flattered the model, a dashboard nobody could read. That's the whole point of keeping them public.
 
 ---
+---
 
+## `06.5` &nbsp; Contribution trail
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mandeep2807/Mandeep2807/output/snake.svg" width="100%" alt="GitHub contribution snake" />
+
+</div>
 ## `07` &nbsp; Connect
 
 <div align="center">
